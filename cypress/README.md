@@ -11,7 +11,7 @@ This directory contains end-to-end (E2E) tests for the ReflexAI Dashboard using 
   - Follow the setup instructions in that repository
   - Ensure the application is running on http://localhost:3000 (default URL)
 
-## Installation
+## Installation 
 
 1. Install dependencies:
 ```bash
